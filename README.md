@@ -1,13 +1,13 @@
 # My GIT test repo
 
-## installation
+## Installation
 
-'''
+```
 pip install flask
 python app.py
-'''
+```
 
-## description
+## Description
 
 ## Impementation
 
